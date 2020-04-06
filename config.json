@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "url": "http://cashbee.ru/",
+      "title": "Юридические услуги в Ростове-на-Дону",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Юридических услуг",
+          "url": "images/portfolio1/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "url": "https://kovtyrin.ru/",
+      "title": "Интернет-магазин шоколада Ковтырин",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Ковтырин",
+          "url": "images/portfolio3/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "url": "https://bistrovikup.ru/",
+      "title": "Выкуп автомобилей в Ростове-на-Дону",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Быстровыкуп",
+          "url": "images/portfolio2/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "url": "https://fan-toy.ru/",
+      "title": "Интернет-магазин детских игрушек Фантики",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Фантики",
+          "url": "images/portfolio4/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "url": "https://galotver.ru/",
+      "title": "Сеть соляных пещер Galomed",
+      "description": "back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Galomed",
+          "url": "images/portfolio5/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "url": "https://xn--d1amhfwcd2a.xn--p1ai/",
+      "title": "Интернет-магазин Фундучок",
+      "description": "front-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Фундучок",
+          "url": "images/portfolio6/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "url": "https://baumaster69.ru/",
+      "title": "Интернет-магазин строительных материалов",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Баумастер",
+          "url": "images/portfolio7/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "url": "https://autopremium-tver.ru/",
+      "title": "Группа компаний Авто премиум",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Авто Премиум",
+          "url": "images/portfolio8/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "url": "https://staffvision.ru/",
+      "title": "Видео продакшн StaffVision",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница StaffVision",
+          "url": "images/portfolio9/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "url": "https://medhelp69.ru",
+      "title": "Наркология 24",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Наркология 24",
+          "url": "images/portfolio10/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "url": "https://vozvrashchenie.com/",
+      "title": "Возвращение центр реабилитации алко и наркозависимых",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Возвращение",
+          "url": "images/portfolio11/main_image.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "url": "https://xn--e1achlkoo1b7f.xn--p1ai/",
+      "title": "Мойчертёж",
+      "description": "front-end/back-end",
+      "images": {
+        "preview": {
+          "title": "Главная страница Мойчертёж",
+          "url": "images/portfolio12/main_image.png"
+        }
+      }
+    }
+  ]
+}

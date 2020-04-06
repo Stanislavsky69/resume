@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Stanislavsky69/resume.git/static/css/main.e7404a5e.chunk.css",
+    "main.js": "/git@github.com:Stanislavsky69/resume.git/static/js/main.6754fd76.chunk.js",
+    "main.js.map": "/git@github.com:Stanislavsky69/resume.git/static/js/main.6754fd76.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Stanislavsky69/resume.git/static/js/runtime-main.a27197fd.js",
+    "runtime-main.js.map": "/git@github.com:Stanislavsky69/resume.git/static/js/runtime-main.a27197fd.js.map",
+    "static/js/2.820b2003.chunk.js": "/git@github.com:Stanislavsky69/resume.git/static/js/2.820b2003.chunk.js",
+    "static/js/2.820b2003.chunk.js.map": "/git@github.com:Stanislavsky69/resume.git/static/js/2.820b2003.chunk.js.map",
+    "index.html": "/git@github.com:Stanislavsky69/resume.git/index.html",
+    "precache-manifest.0765dd82f63fc0e61a7cd1f2a899c5f6.js": "/git@github.com:Stanislavsky69/resume.git/precache-manifest.0765dd82f63fc0e61a7cd1f2a899c5f6.js",
+    "service-worker.js": "/git@github.com:Stanislavsky69/resume.git/service-worker.js",
+    "static/css/main.e7404a5e.chunk.css.map": "/git@github.com:Stanislavsky69/resume.git/static/css/main.e7404a5e.chunk.css.map",
+    "static/js/2.820b2003.chunk.js.LICENSE.txt": "/git@github.com:Stanislavsky69/resume.git/static/js/2.820b2003.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27197fd.js",
+    "static/js/2.820b2003.chunk.js",
+    "static/css/main.e7404a5e.chunk.css",
+    "static/js/main.6754fd76.chunk.js"
+  ]
+}
